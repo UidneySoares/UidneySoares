@@ -1,6 +1,5 @@
 ### Olá 👋
 
-- 🔭 Hoje trabalho com Java
 - 🌱 Estudando Spring Framework - SpringBoot
 - 💬 Contate-me no email: udy123@hotmail.com
 
